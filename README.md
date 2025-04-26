@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://github.com/BiQueryPls/private/raw/main/banner(4).gif" alt="MasterHead" />
+  <img src="https://github.com/BiQueryPls/private/blob/main/VE%20ProSADDASDDAD.gif" alt="MasterHead" />
 </p>
 
 
-<h1 align= "center"> 💫 Hello 👋, I'm Sagar Murmu </h1>
-<h1 align= "center"> A passionate Data Analyst | Power BI | SQL | Excel Enthusiast from India</h1>
+<h1 align="center">💫 Hello 👋, I'm Sagar Murmu</h1>
+<h3 align="center">A passionate Data Analyst | Power BI | SQL | Excel Enthusiast from India</h3>
 
 
-<p align = "left"> <img align="right" alt="Coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx2ZjFpdHJwN3QwZHVhODY0NHpuMTU5Z2F5YzE0ZjZheGR4NnJqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"
+<br><br> <!-- Added this for extra spacing -->
+
+<p align="left">
+  <img align="right" width="280" src="https://github.com/BiQueryPls/private/raw/main/work.gif">
+</p>
 
 
-- 🔭 **Currently working on:** Power BI Projects  <br>
-- 🌱 **Currently learning:** Advanced SQL and DAX<br>
-- 🤔 **Looking for help with:** Data storytelling techniques   <br>
-- 💬 **Ask me about:** Excel hacks, dashboard design, or building custom DAX  <br>
-- 😄 ** Pronouns:**He/Him 📊😄<br>
-- ⚡ **Fun fact:** I used to get lost in video games—now I get lost in data. 📊😄
+- 🔭 **Currently working on:** Power BI Projects 
+- 🌱 **Currently learning:** Advanced SQL and DAX
+- 🤔 **Looking for help with:** Data storytelling techniques   
+- 💬 **Ask me about:** Excel hacks, dashboard design, or building custom DAX 
+- 😄 ** Pronouns:**He/Him 
+- ⚡ **Fun fact:** I used to get lost in video games—now I get lost in data.
 
 
 ## 🌐 Socials:
@@ -36,7 +40,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)       
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BiQueryPls&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
